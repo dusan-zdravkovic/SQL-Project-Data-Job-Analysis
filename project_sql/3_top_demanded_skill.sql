@@ -21,3 +21,5 @@ GROUP BY
 ORDER BY
     demand_count DESC
 LIMIT 5
+
+-- can filter to specific location etc. 
