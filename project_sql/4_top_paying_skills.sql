@@ -27,6 +27,11 @@ LIMIT 25
 -- remote work has more familiar names
 
 /*
+Here's a breakdown of the results for top-paying skills:
+- High demand for Big Data & ML skills: Top salaries
+- Software Development & Deployment Proficiency
+- Cloud Computing Expertise
+- PySpark
 [
   {
     "skills": "pyspark",
