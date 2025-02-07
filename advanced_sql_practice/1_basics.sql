@@ -93,5 +93,3 @@ ALTER COLUMN contact_name TYPE TEXT;
 -- DROP COLUMN contact_name;
 
 DROP TABLE job_applied;
-
-

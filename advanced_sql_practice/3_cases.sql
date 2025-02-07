@@ -46,5 +46,3 @@ GROUP BY
     location_category;
 
 -- Feb. 1, 2025
-
-
